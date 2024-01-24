@@ -1,0 +1,19 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "description": "Device found:"
+            },
+            "menu_options": {
+                "start_discovery": "Activate discovery mode",
+                "stop_discovery": "Stop discovery mode",
+                "done": "Done"
+            }
+        },
+        "error": {
+            "auth": "Username/Password is wrong.",
+            "connection": "Unable to connect to the server.",
+            "unknown": "Unknown error occurred."
+        }
+    }
+}

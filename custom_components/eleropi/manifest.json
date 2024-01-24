@@ -1,0 +1,12 @@
+{
+  "domain": "EleroPi",
+  "name": "EleroPi",
+  "codeowners": [
+    "@silver085"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/silver085/EleroPi",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/silver085/EleroPi/issues",
+  "version": "0.0.0"
+}

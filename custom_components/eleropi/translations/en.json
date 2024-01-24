@@ -2,11 +2,12 @@
     "config": {
         "step": {
             "user": {
-                "description": "If you need help with the configuration have a look here: https://github.com/ludeeus/integration_blueprint",
-                "data": {
-                    "username": "Username",
-                    "password": "Password"
-                }
+                "description": "Device found:"
+            },
+            "menu_options": {
+                "start_discovery": "Activate discovery mode",
+                "stop_discovery": "Stop discovery mode",
+                "done": "Done"
             }
         },
         "error": {
